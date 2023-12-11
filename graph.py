@@ -1,5 +1,4 @@
 from math import sqrt
-from stack import Stack
 
 class Node:
     def __init__(self, number, x, y):
